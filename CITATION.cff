@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Full code"
+authors:
+- family-names: "Saranya"
+  given-names: "C"
+- family-names: "Janaki"
+  given-names: "G"
+title: "FL-P4AV: Privacy-Preserving Path Planning Framework"
+year: 2026
+url: "https://github.com/saranyacbose-del/FL-P4AV-Privacy-Preserving-Path-Planning"
